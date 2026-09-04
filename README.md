@@ -4,7 +4,8 @@ A single-file, native Windows desktop app for downloading YouTube videos, audio,
 
 ## Screenshots
 
-> _No screenshots included yet. Capture the main app window (showing the URL input, format/quality selectors, download queue, and recent downloads panel) and add PNG files to a `screenshots/` folder, then reference them here with `![Description](screenshots/filename.png)`._
+<img width="722" height="792" alt="main-window" src="https://github.com/user-attachments/assets/f64a5503-45fd-41ff-a332-f4f7e85fd67d" />
+
 
 ```
 JustDownloadIT/
