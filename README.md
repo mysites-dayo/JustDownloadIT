@@ -154,7 +154,7 @@ Copy the compiled installer to `release\JustDownloadIT-Setup.exe` for upload to 
 
 Once this repository is published to GitHub, pre-built `JustDownloadIT-Setup.exe` installers will be available under the **Releases** tab of the repository. Users can simply download the latest `.Setup.exe` and double-click to install — no Python or build tools required.
 
-Check [Releases](https://github.com/your-username/your-repo-name/releases) after uploading the first build.
+Check [Releases](https://github.com/onstageCaspeR/JustDownloadIT/releases) after uploading the first build.
 
 
 
